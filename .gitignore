@@ -1,0 +1,8 @@
+# Edtior directories and files
+.idea
+.vscode
+*.suo
+*.nlvs*
+*.njsproj
+*.sln
+*.sw?
