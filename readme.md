@@ -16,6 +16,7 @@
 7. [git fetch, git merge, git pull](/git%20fetch%2Cgit%20merge%2C%20git%20pull.md)
 8. [git push](/git%20push.md)
 9. [git diff](/git%20diff.md)
+10. [git reset](/git%20reset.md)
 
 
 ---
